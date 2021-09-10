@@ -250,3 +250,34 @@ mixin Boxear{
     print("Sacando el saco de boxeo...");
   }
 }
+
+//**
+//Nombre: Camilo, Edad: 24
+//Soy muy comprometido con mi trabajo
+//Tipo de arte: Óleo
+//Alistando los materiales...
+//Haciendo un dibujo...
+//Tipo de lápiz: N2
+//
+//Nombre: Andrés, Edad: 28
+//Soy muy perfeccionista haciendo las cosas
+//Tipo de ingeniería: Sistemas
+//Pleaneando el nuevo proyecto...
+//Documentándome sobre el proyecto...
+//Haciendo un dibujo...
+//Tipo de lápiz: N2
+//
+//Nombre: Juan, Edad: 42
+//Mi pasión es salvar vidas
+//Especialización: Cardiología
+//Preparando los implementos para la operación...
+//Estirando tendones para empezar a trotar...
+//Tiempo para hacer ejercicio: 120 minutos
+//
+//Nombre: Jorge, Edad: 32
+//Soy una persona muy disciplinada y me gusta demostrar respeto
+//Estilo: Slugger
+//Alistándome para el entrenamiento
+//Sacando el saco de boxeo...
+//Tiempo para boxear: 60 minutos
+// */
